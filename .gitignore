@@ -1,0 +1,15 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+
+# Packaging metadata
+*.egg-info/
+
+# Editor settings
+.vscode/
+
+# macOS
+.DS_Store
